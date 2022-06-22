@@ -76,8 +76,8 @@
     <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-93-108.ec2.internal-releases</name>
-        <url>http://52.21.218.4:8081/artifactory/libs-release</url>
+        <name>ip-172-31-93-108.ec2.internal-snapshots</name>
+        <url>http://54.197.22.96:8081/artifactory/libs-snapshot-local</url>
     </repository>
 </distributionManagement>
 
